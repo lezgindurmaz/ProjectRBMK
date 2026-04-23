@@ -1,0 +1,13 @@
+.gradle/
+build/
+app/build/
+.cxx/
+app/.cxx/
+*.apk
+*.log
+*.bak
+*.tmp
+node_modules/
+.DS_Store
+capture_*.png
+EOF
